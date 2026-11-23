@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Archives (doublons des sources ; l'exécutable est publié en Release GitHub)
+Source Code/

@@ -1,0 +1,13 @@
+0
+1
+0
+
+
+Ordre des données pour pouvoir tricher plus facilement (et valeur initiale):
+Argent (0)
+Niveau de la canne à pêche de 1 à 6 (1)
+Compteur d'anchois (0)
+
+Vous devez fermer le jeu avant de modifier les données
+
+Merci de jouer à notre jeu :)
