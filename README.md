@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="docs/apercu.png" alt="Captures du jeu MasterBait : pêche en mer et baleine bleue" width="100%">
+</p>
+
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white">
   <img alt="Pygame" src="https://img.shields.io/badge/Pygame-2.3-0B7A0B">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-.exe-0078D6?logo=windows&logoColor=white">
