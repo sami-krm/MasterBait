@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/apercu.png" alt="Captures du jeu MasterBait : pêche en mer et baleine bleue" width="100%">
+  <img src="docs/apercu.png" alt="Captures de MasterBait : accueil, prise d'un bar, fond coucher de soleil et Requin-Martin au marché noir" width="100%">
 </p>
 
 <p align="center">
